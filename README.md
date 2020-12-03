@@ -1,2 +1,2 @@
 # blood_donation
-A website to find bold donors.
+A website to find blood donors.
