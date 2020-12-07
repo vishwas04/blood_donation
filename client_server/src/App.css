@@ -1,0 +1,51 @@
+div.App
+            {
+              background: black;
+              background-repeat: no-repeat;
+            }
+#login {
+            text-align: center;
+                margin: auto;
+                width: 40%;
+                border-style: groove;
+                padding: 25px;
+                background-image: linear-gradient(red, orange);
+
+            }
+lable
+        {
+            font-family:sans-serif
+        }
+        h1
+        {
+            font-size:40px;
+            font-family:cursive;
+        }
+        h2
+        {
+            font-size:40px;
+            font-family:cursive;
+        }
+        div.absolute {
+          position: absolute;
+          top: 190px;
+          right: 0;
+          text-align: center;
+          margin: auto;
+          width: 30%;
+          padding: 25px;
+          background-image: linear-gradient(to right, black, orangered);
+        }
+        div.absolute1 {
+          position: absolute;
+          top: 450px;
+          right: 0;
+
+          text-align: center;
+          margin: auto;
+          width: 30%;
+          
+          padding: 25px;
+           background-image: linear-gradient(to right, black, orangered);
+        }
+

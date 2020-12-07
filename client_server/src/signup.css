@@ -1,0 +1,41 @@
+body
+            {
+                 background:black;
+                                
+                
+            }
+        #login {
+            text-align: center;
+                margin: auto;
+                width: 40%;
+                border-style: solid;
+                padding: 25px;
+                background-image: linear-gradient(300deg,black,orangered 90%);
+
+            }
+        lable
+        {
+            padding:5px;
+            
+        }
+        h1
+        {
+            font-size:40px;
+            font-family:cursive;
+            color:white
+        }
+button {
+
+  /* remove default behavior */
+  appearance:none;
+  -webkit-appearance:none;
+
+  /* usual styles */
+  padding:5px;
+  border:none;
+  background-color:white;
+  color:black;
+  font-weight:600;
+  border-radius:5px;
+
+}

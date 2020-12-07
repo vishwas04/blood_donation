@@ -1,0 +1,97 @@
+li{
+    list-style:none;
+}
+
+.bar{
+    background-color: black;
+    height:70px;
+    display:flex;
+    justify-content: flex-start;
+}
+
+.menuButton{
+    margin-left:1rem;
+    margin-top:1.5rem;
+    font-size: 2rem;
+    background:none;
+}
+
+.closeButton{
+    
+    margin-left:5rem;
+    margin-top:1rem;
+    font-size: 2rem;
+    background:none;
+}
+
+.topButtons{
+    margin-left:5rem;
+    margin-top:1.5rem;
+    font-size: 1.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    color: white; 
+}
+
+.menu{
+    background-color: black;
+    width:15%;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    position: fixed;
+    top:0;
+    transition:850ms;
+    left:-100%;
+}
+
+.menu.open{
+    transition:500ms;
+    left:0;
+}
+
+span{
+    margin-left: 16px;
+}
+
+.sidebar-text {
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+    padding:8px 0px 8px 0px;
+    height:60px;
+}
+
+.sidebar-text a{
+    text-decoration:none;
+    color:whitesmoke;
+    font-size:25px;
+    width:95%;
+    height:100%;
+    display:flex;
+    align-items:center;
+    padding: 0 16px;
+    border-radius:4px;
+}
+
+.sidebar-text a:hover{
+    background-color: rgb(32, 119, 75);
+}
+
+full-menu{
+    width:100%;
+}
+
+.close-menu {
+    background-color: black;
+    width:100%;
+    height:80px;
+    display:flex;
+    justify-content:flex-start;
+    align-items: center;
+}
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+.leftContactpage{
+    background: url('./wallpaper2crp.jpg') center center/cover no-repeat;
+    height:100vh;
+    width:100%;  
+    display:flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+}
+
+.cardcontainer{
+    
+    top:100px;
+    border-radius:5px;
+    margin:5rem ;
+    height:240px;
+    width:400px;
+    overflow:hidden;
+    box-shadow:0px 0px 15px -5px;
+    background-color: floralwhite;
+}
+
+.cardcontainer h3{
+   
+    top:500px;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif; 
+    font-size: 14px;
+}
+
+.hhh2{
+     font-size: 20px;
+}

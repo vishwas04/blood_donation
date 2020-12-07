@@ -1,0 +1,45 @@
+div.App
+            {
+              background: black;
+              background-repeat: no-repeat;
+            }
+#login {
+            text-align: center;
+                margin: auto;
+                width: 40%;
+                border-style: groove;
+                padding: 25px;
+                background-image: linear-gradient(red, orange);
+
+            }
+h4{
+    color:white;
+}
+#dlable
+        {
+            font-family:sans-serif;
+            color:white;
+        }
+        h1
+        {
+            font-size:40px;
+            font-family:cursive;
+        }
+        h2
+        {
+            font-size:40px;
+            font-family:cursive;
+        }
+        div.dabsolute {
+          position: absolute;
+          top: 190px;
+          right: 500px;
+          text-align: center;
+          margin: auto;
+          width: 30%;
+          padding: 25px;
+          background-image: linear-gradient(to right, black, orangered 400px, black 800px);
+        }
+        
+
+/*style ={ { backgroundImage: "url('/Users/vishwas/Desktop/web_project/client/src/images/red1.jpg')" }} */

@@ -1,0 +1,134 @@
+#full {
+        background:black;
+    }
+#man1{
+    height:300px;
+    position: absolute;
+    top:100px;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+    z-index: -1;
+    
+}
+#man2{
+    height:300px;
+    position: absolute;
+    top:500px;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+    z-index: -1;
+    
+}
+
+#h1 {
+    height:70px;
+    width:70px;
+    position:absolute;
+    top:310px;
+    right:0px;
+    z-index: -1;
+}
+#h2 {
+    height:70px;
+    width:70px;
+    position:fixed;
+    top:310px;
+    right:0px;
+    z-index: -1;
+}
+#h3 {
+    opacity:0;
+    height:70px;
+    width:70px;
+    position:absolute;
+    top:730px;
+    right:0px;
+    z-index: -1;
+}
+#home_input{
+    position:absolute;
+    top:150px;
+    left:520px;
+    border: 4px solid orangered;
+    border-radius: 10px;
+    width: 400px;
+    height:50px;
+    
+}
+#home_b{
+    position:absolute;
+    
+    top:220px;
+    left:655px;
+    background: #fff;
+    
+    
+}
+
+
+
+
+#htree{
+    position:absolute;
+    color:white;
+    top:60px;
+    left:520px;
+}
+#hfour{
+    position:absolute;
+    color:white;
+    top:59px;
+    left:720px;
+}
+#select_
+{
+    position:absolute;
+    top:110px;
+    left:550px;
+}
+
+#lable1{
+    position:absolute;
+    color:white;
+    top:100px;
+    left:750px;
+}
+#lable2{
+    position:absolute;
+    color:white;
+    top:100px;
+    left:820px;
+
+}
+
+
+#i1{
+    position:absolute;
+    color:white;
+    top:130px;
+    left:765px;
+}
+#i2{
+    position:absolute;
+    color:white;
+    top:130px;
+    left:830px;
+}
+#result{
+    background-color:orangered;
+    position:absolute;
+    color:white;
+    top:400px;
+    left:500px;
+    font-size: 40px;
+    font-weight: bold;
+    color:black
+}
+
+div > ui :nth-child(odd)
+{
+    color:white;
+}
+

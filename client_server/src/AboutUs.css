@@ -1,0 +1,44 @@
+body{
+    /*background: url('./wallpapercrp.jpg')  center center/cover no-repeat;*/
+    background-color: black;
+}
+
+.card-container{
+    margin:2rem ;
+    width:250px;
+    overflow:hidden;
+    box-shadow:0px 0px 15px -5px;
+    transition:500ms;
+    background-color: black;
+}
+
+.card-container:hover{
+    transform:scale(1.1);
+    box-shadow:0px 0px 15px 0px;
+}
+
+.image-container img{
+    overflow: hidden;
+    height:200px;
+}
+
+.name{
+    margin: 0.5rem 0rem 0.25rem 0rem;
+    text-align: center;
+}
+.details{
+    text-align: center;
+}
+
+.allCards{
+    display:flex;
+    justify-content: center;
+}
+p{
+    color:white;
+}
+.contactPage
+{margin:2rem ;
+     height:800px;
+     border-radius: 3rem;
+}

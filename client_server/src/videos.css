@@ -1,0 +1,37 @@
+.mainvideo{
+    display:flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.videoList{
+    display:flex;
+    justify-content: center;
+    margin-top: 0rem;
+    margin-right: 1rem;
+}
+
+.card-container{
+    margin:2rem ;
+    width:200px;
+    overflow:hidden;
+    box-shadow:0px 0px 15px -5px;
+    transition:500ms;
+    background-color: orangered; 
+    border-radius: 0.5rem;
+}
+
+.image-container{
+    align-content: center;
+}
+
+.image-container img{
+    overflow: hidden;
+    height:150px;
+    margin:0rem 1.5rem;
+}
+
+.name{
+    margin: 0.5rem 0rem 0.25rem 0rem;
+    text-align: center;
+}
